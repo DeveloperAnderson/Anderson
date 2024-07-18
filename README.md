@@ -8,7 +8,7 @@
 
 
 <!-- Short Bio -->
-<p>Welcome to my profile! </br> I'm an <b>AI enthusiast</b> currently building my skills in <b>Machine Learning</b> and <b>Deep Learning.</b> In addition to AI, I'm also diving into <b>Data Structures and Algorithms</b> to strengthen my foundational knowledge.</p>
+<p>Bienvenido a mi Perfil! </br> Soy un <b>Developer</b> y actualmente estoy desarrollando mis habilidades en aprendizaje automático y aprendizaje profundo.</b> Ademas, Tambien <b>estoy en constante evolucion </b> de Tecnologias.</p>
 
 
 <!-- Tech Stack -->
