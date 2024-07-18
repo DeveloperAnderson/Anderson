@@ -19,7 +19,7 @@
 	<p style="display: inline-block;">
 	<p>
 		<kbd>
-			<kbd>Programming Languages</kbd>
+			<kbd>Lenguajes de programación</kbd>
 			<br>
 			<br>
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
