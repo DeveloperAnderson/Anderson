@@ -15,6 +15,7 @@
 </br>
 <h2>Tech Stack</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 <div>
 	<p style="display: inline-block;">
 	<p>
@@ -22,11 +23,11 @@
 			<kbd>Lenguajes de programación</kbd>
 			<br>
 			<br>
-			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+			<img alt="Java" src="https://skillicons.dev/icons?i=java">
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
-			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
-			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
+			<img alt="JS" src="https://skillicons.dev/icons?i=js">
+			<img alt="HTML" src="https://skillicons.dev/icons?i=html">
+			<img alt="Angular" >
 			
 		</kbd>
 	</p>
