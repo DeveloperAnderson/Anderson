@@ -31,7 +31,6 @@
 			<img alt="Angular" src="https://skillicons.dev/icons?i=angular" >
       			<img alt="HTML" src="https://skillicons.dev/icons?i=html">
 	 		<img alt="Angular" src="https://skillicons.dev/icons?i=css" >
-			
 		</kbd>
 	</p>
 	<p>
