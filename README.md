@@ -24,10 +24,13 @@
 			<br>
 			<br>
 			<img alt="Java" src="https://skillicons.dev/icons?i=java">
-			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="SpringBoot" src="https://skillicons.dev/icons?i=spring">
+			<img alt="Python" src="https://skillicons.dev/icons?i=python">
 			<img alt="JS" src="https://skillicons.dev/icons?i=js">
-			<img alt="HTML" src="https://skillicons.dev/icons?i=html">
-			<img alt="Angular" >
+			<img alt="TS" src="https://skillicons.dev/icons?i=ts">
+			<img alt="Angular" src="https://skillicons.dev/icons?i=angular" >
+      			<img alt="HTML" src="https://skillicons.dev/icons?i=html">
+	 		<img alt="Angular" src="https://skillicons.dev/icons?i=css" >
 			
 		</kbd>
 	</p>
